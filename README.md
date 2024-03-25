@@ -3,6 +3,11 @@
 This repository is a guide on how to render 3D graphics using the Vulkan SDK on Linux.
 
 ### Setup Environment
+#### Required
+- cmake 3.22.1 or higher
+- Vulkan SDK
+- glfw (contained on this repository: third_party/glfw)
+- glm (contained on this repository: third_party/glm)
 
 #### Install Vulkan SDK
 ~~~

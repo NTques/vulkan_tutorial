@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1653f79-683b-4b4b-a536-10d4d9f3a08f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-9a2b1f08bc98072370b2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-6245a3507b1281af421b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6d2e0a1f0d30738940f5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-third_party.glfw-Debug-449ff6189b994a799031.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-third_party.glfw.docs-Debug-eb236ae29e16c5efe682.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-third_party.glfw.src-Debug-798a242e2f7de7712658.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-25T09-10-33-0732.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-glfw-Debug-b9e48bbff6eaa9f43c35.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-uninstall-Debug-0e2a6b19633efe51bcd6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-update_mappings-Debug-f2203a166d82ac71eec9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-vulkan_tutorial-Debug-8e472e9919267d819d07.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-7096c62e23c342eb06a8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vulkan_tutorial.dir/src/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/CMakeFiles/Export/f367bd07922f2ecfc14cf5547f1f7c4e/glfw3Targets-debug.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/CMakeFiles/Export/f367bd07922f2ecfc14cf5547f1f7c4e/glfw3Targets.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/cmake_uninstall.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/docs/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/context.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/init.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/input.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/monitor.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/null_init.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/null_window.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/platform.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/window.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/wl_monitor.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/fractional-scale-v1-client-protocol-code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/fractional-scale-v1-client-protocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/glfw3.pc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/glfw3Config.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/glfw3ConfigVersion.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/idle-inhibit-unstable-v1-client-protocol-code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/idle-inhibit-unstable-v1-client-protocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/libglfw3.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/pointer-constraints-unstable-v1-client-protocol-code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/pointer-constraints-unstable-v1-client-protocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/relative-pointer-unstable-v1-client-protocol-code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/relative-pointer-unstable-v1-client-protocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/viewporter-client-protocol-code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/viewporter-client-protocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/wayland-client-protocol-code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/wayland-client-protocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/xdg-activation-v1-client-protocol-code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/xdg-activation-v1-client-protocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/xdg-decoration-unstable-v1-client-protocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/xdg-shell-client-protocol-code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/third_party/glfw/src/xdg-shell-client-protocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/vulkan_tutorial" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2eApgY4ibNxqwN9noQkFk5IV7l3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.vulkan_tutorial.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/antique/Desktop/gui/vulkan_tutorial",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1653f79-683b-4b4b-a536-10d4d9f3a08f" name="Changes" comment="" />
+      <created>1711357348534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711357348534</updated>
+      <workItem from="1711357349701" duration="1004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

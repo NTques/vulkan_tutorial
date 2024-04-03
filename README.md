@@ -1,6 +1,6 @@
 # vulkan_tutorial
 
-This repository is a guide on how to render 3D graphics using the Vulkan SDK on Linux.
+This repository is a guide on how to render 3D graphics using the Vulkan SDK on Linux. (This repository will be updated occasionally...)
 
 ### Setup Environment
 #### Required
